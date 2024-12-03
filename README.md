@@ -1,1 +1,1 @@
-# VLSI-Error-Detection-using-Deep-Learning
+# VLSI Error Detection using Deep Learning
